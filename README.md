@@ -4,8 +4,7 @@ Guess that will be a game where a user is given a clue one at a time and the use
 ## Installation Instructions
 
 ### Prerequisites
-- [Language/runtime] (e.g. Node.js v18+, Python 3.10+)
-- [Package manager] (e.g. npm, pip, yarn)
+- Language - Node.js v18+, Python 3.10+
 
 ### Steps
 1. Clone the repository
